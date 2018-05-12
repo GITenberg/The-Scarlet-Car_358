@@ -1,5 +1,8 @@
 _repo: The-Scarlet-Car_358
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -16,6 +19,8 @@ description: The Shelf2Life Literature and Fiction Collection is a unique set of
   and celebrate the wild beauty of nature. The Shelf2Life Literature and Fiction Collection
   provides readers with an opportunity to enjoy and study these iconic literary works,
   many of which were written during a period of remarkable creativity.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/358#The-Scarlet-Car
 gutenberg_issued: '1995-11-01'
 gutenberg_type: Text
 identifiers:
